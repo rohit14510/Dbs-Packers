@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dbspackers.com/?sitemapindex.xml
+Sitemap: https://dbspackers.com/?sitemap571.xml
+Sitemap: https://dbspackers.com/?sitemap809.xml
+Sitemap: https://dbspackers.com/?sitemap767.xml
+Sitemap: https://dbspackers.com/?sitemap153.xml
+Sitemap: https://dbspackers.com/?sitemap584.xml
